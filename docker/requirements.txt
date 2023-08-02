@@ -1,0 +1,28 @@
+# basic
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+opencv-python
+
+# tool
+tqdm
+imagesize
+
+# pytorch related
+pytorch-lightning 
+tensorboard
+
+# jupyter
+jupyter
+jupyterlab
+
+# pytest
+pytest 
+pytest-sugar 
+pytest-timeout 
+pytest-cov 
+pytest-clarity 
+pytest-mock 
+freezegun
